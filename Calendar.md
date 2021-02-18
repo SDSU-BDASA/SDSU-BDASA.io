@@ -3,4 +3,7 @@ layout: page
 title: Calendar
 ---
 
-To be uploaded soon...
+<img src="/images/1.png" alt="2021 Calendar" style="height: px; width:px;"/> (Edited by Harmit Chima) 
+
+
+
